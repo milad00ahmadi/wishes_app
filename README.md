@@ -8,4 +8,4 @@ This project is an implementation of [Wishes App concept](https://dribbble.com/s
 
 ## Implementation
 
-![Design](https://gitlab.com/miladahmadi/wishes-list-app-concept/-/raw/master/screenshots/implementation.gif?inline=true)
+![Implementation](https://gitlab.com/miladahmadi/wishes-list-app-concept/-/raw/master/screenshots/implementation.gif?inline=true)
